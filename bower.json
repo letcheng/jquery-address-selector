@@ -1,0 +1,20 @@
+{
+  "name": "jquery-address-selector",
+  "version": "0.0.1",
+  "authors": [
+    "letcheng <letcheng@tcxiaoyi.com>"
+  ],
+  "description": "a jquery plugin used to choose address.",
+  "main": "jquery-address-selector",
+  "keywords": [
+    "jquery",
+    "plugins",
+    "province",
+    "city",
+    "area"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "1.7.x"
+  }
+}
